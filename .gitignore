@@ -1,0 +1,72 @@
+# Dart / Flutter generated files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+*.symbols
+*.map.json
+
+# Android generated files and local SDK configuration
+.gradle/
+.cxx/
+.externalNativeBuild/
+/android/local.properties
+/android/captures/
+
+# Apple generated files and per-user Xcode state
+Pods/
+.symlinks/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/flutter_export_environment.sh
+/ios/Flutter/ephemeral/
+
+# Local signing credentials and environment configuration
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.mobileprovision
+/android/key.properties
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Editor, OS and temporary files
+.DS_Store
+._*
+.idea/
+*.iml
+*.swp
+*.swo
+*~
+/.vscode/settings.json
+
+# Python caches (helper scripts only)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local reference materials and document delivery packages
+/eegTest/
+/KSEEG102_Python_Mac/
+/docs/
+/exports/
+
+# Local Planning with Files records
+/task_plan.md
+/findings.md
+/progress.md
+/.planning/
+/.plan-attestation
+
+# Keep app dependency lockfiles, platform projects and shared launch settings.
+# Do not ignore pubspec.lock, Podfile.lock, .metadata or .vscode/launch.json.

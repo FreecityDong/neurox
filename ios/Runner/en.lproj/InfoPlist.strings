@@ -1,0 +1,2 @@
+"NSBluetoothAlwaysUsageDescription" = "NeuroX uses Bluetooth to find and connect to your KSEEG102 headset and receive EEG data.";
+"CFBundleDisplayName" = "NeuroX";

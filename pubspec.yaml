@@ -1,0 +1,23 @@
+name: neurox
+description: NeuroX KSEEG102 dual-channel EEG acquisition app.
+publish_to: 'none'
+version: 1.23.0+56
+
+environment:
+  sdk: '>=3.10.0 <4.0.0'
+
+dependencies:
+  flutter_localizations:
+    sdk: flutter
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/branding/neurox-mark-transparent.png

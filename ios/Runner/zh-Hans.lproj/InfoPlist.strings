@@ -1,0 +1,2 @@
+"NSBluetoothAlwaysUsageDescription" = "NeuroX需要使用蓝牙搜索和连接您的KSEEG102头带，接收真实脑电数据。";
+"CFBundleDisplayName" = "NeuroX";
